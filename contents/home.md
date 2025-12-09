@@ -1,20 +1,17 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Johnweii25](https://img.shields.io/badge/Johnweii25-github-blue?logo=github)](https://github.com/Johnweii25)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a PhD's degree in Optical Engineering at the Department of IoIP, NanKai University, TianJin.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>douwei@mail.nankai.edu.cn</code>  
+<code>weidou99@gmail.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**University of Chinese Academy of Sciences,**, Master of Science in Engineering(2022 - 2025) 
+• Strarted to do some research on Coded Aperture Snapshot Spectral Imaging, luckily meet the graduation requirements. 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**North University of China**,  Bachelor of Engineering (2017 – 2021)  
+• I spent four years of study uneventfully, without making any significant achievements.
 
 #### Research Interests  
-XX, XX, XX, XX.
+Computational Imaging, Spectral Imaing, Metasurface, Deep Learning.

@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- Excellent Students, University of Chinese Academy of Sciences, 2024. 
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+...Waiting for a LONG LIST 
