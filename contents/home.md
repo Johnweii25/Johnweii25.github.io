@@ -8,12 +8,13 @@ I'm currently pursuing a PhD's degree in Optical Engineering at the Department o
 
 #### Education  
 **University of Chinese Academy of Sciences,Changchun Institute of Optics,Fine Mechanicsand Physics,Chinese Academy of Sciences,** Master of Science in Engineering (2022 - 2025) 
+**Supervisor: Zongxuan Li** https://people.ucas.ac.cn/~0064452
 
 • Strarted to do some research on Coded Aperture Snapshot Spectral Imaging, luckily meet the graduation requirements. 
 
 **North University of China,**  Bachelor of Engineering (2017 – 2021)  
 
-• I spent four years of study uneventfully, without making any significant achievements.
+• Spent four years of study uneventfully, without making any significant achievements.
 
 #### Research Interests  
 Computational Imaging, Spectral Imaing, Metasurface, Deep Learning.
