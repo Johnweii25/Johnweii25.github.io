@@ -7,11 +7,12 @@ I'm currently pursuing a PhD's degree in Optical Engineering at the Department o
 <code>weidou99@gmail.com</code>
 
 #### Education  
+**NanKai University,** PhD Studenti (2025 to present)
+• I am currently engaged in research on multi-dimensional imaging, especially polarization spectral imaging based on metasurfaces.
+
 **University of Chinese Academy of Sciences,** Master of Science in Engineering (2022 - 2025) 
-
-**Changchun Institute of Optics,Fine Mechanicsand Physics,Chinese Academy of Sciences,**
-
-**Supervisor: Zongxuan Li** https://people.ucas.ac.cn/~0064452
+**Changchun Institute of Optics,Fine Mechanicsand Physics,Chinese Academy of Sciences**
+**advisor: Professor Zongxuan Li** https://people.ucas.ac.cn/~0064452
 
 • Strarted to do some research on Coded Aperture Snapshot Spectral Imaging, luckily meet the graduation requirements. 
 
