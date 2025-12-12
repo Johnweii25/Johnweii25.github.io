@@ -7,7 +7,7 @@ I'm currently pursuing a PhD's degree in Optical Engineering at the Department o
 <code>weidou99@gmail.com</code>
 
 #### Education  
-**NanKai University,** PhD Student (2025 to present)
+**NanKai University,** PhD Students (2025 to present)
 • I am currently engaged in research on multi-dimensional imaging, especially polarization spectral imaging based on metasurfaces.
 
 **University of Chinese Academy of Sciences,** Me (2022 - 2025) 
