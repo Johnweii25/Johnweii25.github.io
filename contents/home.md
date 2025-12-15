@@ -14,7 +14,7 @@ I'm currently pursuing a PhD's degree in Optical Engineering at the Department o
 
 -**University of Chinese Academy of Sciences | Me (2022 - 2025)**  
 -**Changchun Institute of Optics,Fine Mechanicsand Physics,Chinese Academy of Sciences | Me (2022 - 2025)**  
-***advisor: Professor [Zongxuan Li](https://people.ucas.ac.cn/~0064452)*** 
+***advisor: Prof.[Zongxuan Li](https://people.ucas.ac.cn/~0064452) and Prof.[Shuping Tao](https://people.ucas.edu.cn/~0064463)*** 
 
 • Strarted to do some research on Coded Aperture Snapshot Spectral Imaging, luckily meet the graduation requirements. 
 
